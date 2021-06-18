@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {fgngfrn
+@layer base {
   /* open-sans-regular - latin */
   @font-face {
     font-family: 'Open Sans';
