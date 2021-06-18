@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/yogaajie2/huddle
-- Live Site URL: [https://pedantic-jones-85d39b.netlify.app/
+- Live Site URL: https://pedantic-jones-85d39b.netlify.app/
 
 ## My process
 
