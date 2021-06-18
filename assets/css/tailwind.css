@@ -56,6 +56,10 @@
         url('../fonts/poppins-v15-latin-700.svg#Poppins') format('svg'); /* Legacy iOS */
   }
 
+  html {
+    @apply overflow-x-hidden;
+  }
+
   button:focus {
     @apply outline-none;
   }
